@@ -50,7 +50,7 @@ const Contact = () => {
               Get in Touch
             </h2>
             <p className="text-[#8B4513]/70 mb-8">
-              We'd love to hear from you. Please fill out the form below or reach out to us 
+              We&apos;d love to hear from you. Please fill out the form below or reach out to us 
               using the contact information provided.
             </p>
 
